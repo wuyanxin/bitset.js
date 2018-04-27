@@ -1,0 +1,17 @@
+{
+  "name": "bitsetjs",
+  "version": "0.1.0",
+  "description": "bitset on javascript",
+  "main": "bitset.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "keywords": [
+    "bitset"
+  ],
+  "author": "wuyanxin",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
