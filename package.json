@@ -1,17 +1,30 @@
 {
-  "name": "bitsetjs",
-  "version": "0.1.0",
+  "name": "node-bitset",
+  "version": "0.2.0",
   "description": "bitset on javascript",
   "main": "bitset.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha"
+    "test": "mocha"
   },
   "keywords": [
-    "bitset"
+    "bitset",
+    "bitset.js"
   ],
   "author": "wuyanxin",
   "license": "MIT",
   "devDependencies": {
     "mocha": "^5.1.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuyanxin/bitset.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wuyanxin/bitset.js/issues"
+  },
+  "homepage": "https://github.com/wuyanxin/bitset.js#readme"
 }
